@@ -1,0 +1,22 @@
+h1{
+
+  
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+
+  
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:lighter;
+    font-style: normal;
+}
+
+h3{
+    font-family: "Marck Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
