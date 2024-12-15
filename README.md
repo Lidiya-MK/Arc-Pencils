@@ -13,4 +13,6 @@ Here are some of the mockups from my figma design for the website:
 
 ![image](https://github.com/user-attachments/assets/03b062ca-5f4b-452a-aea4-2b6403db7650)
 
+![image](https://github.com/user-attachments/assets/f3b22e4c-4c24-4145-8758-336ba4d6ca95)
+
 
