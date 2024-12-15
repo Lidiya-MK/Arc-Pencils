@@ -5,8 +5,8 @@ I have been wanting to experiment with minimalist website design for quite some 
 Here are some of the mockups from my figma design for the website:
 
 
-<img src="https://github.com/user-attachments/assets/4412e108-8f70-4550-9a4b-bfccc0d65aad">
-<img src="https://github.com/user-attachments/assets/0ebc8a5a-15c6-469b-b23e-fd643d5d7fa8">
+<img src="https://github.com/user-attachments/assets/4412e108-8f70-4550-9a4b-bfccc0d65aad" width= 200>
+<img src="https://github.com/user-attachments/assets/0ebc8a5a-15c6-469b-b23e-fd643d5d7fa8"  width= 200>
 
 
 
