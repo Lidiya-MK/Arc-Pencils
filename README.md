@@ -9,3 +9,6 @@ Here are some of the mockups from my figma design for the website:
 
 ![image](https://github.com/user-attachments/assets/0ebc8a5a-15c6-469b-b23e-fd643d5d7fa8)
 
+![image](https://github.com/user-attachments/assets/1a6c6c8b-9bbd-4b22-8100-7fd269910ba7)
+
+
