@@ -135,3 +135,37 @@ overflow: hidden;
 padding-left: 5vh;
 
 }
+.sketch-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.sketch-one{
+    height: 75vh;
+    padding-left: 25vh;
+    padding-right:25vh;
+}
+
+.sketch-two{
+    height: 75vh;
+  
+    padding-right:25vh;
+}
+
+.sketch-text01{
+    padding-top: 20vh;
+    font-size: 3.5em;
+    display: inline-block;
+}
+
+.sketch-text02{
+    padding-top: 20vh;
+    font-size: 3.5em;
+    display: inline-block;
+    padding-left: 20vh;
+}
+
+
+
+
