@@ -3,9 +3,10 @@
     margin: 0%;
 }
 
-html{
-    overflow-x:hidden;
+html {
+    overflow-x: hidden;
 }
+
 /* h1{
 
   
@@ -14,20 +15,20 @@ html{
     font-style: normal;
 } */
 
-h2{
+h2 {
 
-  
+
     font-family: "Aboreto", system-ui;
     font-weight: 600;
     font-style: normal;
     padding-right: 300px;
     left: 10;
- 
+
 }
 
-h1{
+h1 {
 
-  
+
     font-family: "Aboreto", system-ui;
     font-weight: 400;
     font-style: normal;
@@ -35,7 +36,7 @@ h1{
     left: 10;
     font-size: 5em;
     text-align: center;
- 
+
 }
 
 
@@ -52,7 +53,7 @@ h3{
 } */
 
 
-.hero-section{
+.hero-section {
     background-image: url("../images/herosectionHighDef.png");
     width: 100%;
     padding: 0%;
@@ -60,17 +61,19 @@ h3{
     height: 100vh;
     background-size: cover;
 }
-.about-section{
+
+.about-section {
     width: 100%;
     padding: 0%;
     margin: 0%;
 
- 
+
 
 }
-ul{
+
+ul {
     list-style-type: none;
-    padding:0;
+    padding: 0;
     margin: 0;
     display: flex;
     align-items: center;
@@ -78,19 +81,20 @@ ul{
 
 }
 
-.navbar{
+.navbar {
     display: flex;
     padding: 20px;
 
-   position: fixed;
+    position: fixed;
 }
 
-li{
+li {
     display: inline-block;
     padding-right: 7vh;
-   
+
 }
-.nav-item{
+
+.nav-item {
     text-decoration: none;
     color: black;
     font-family: "Aboreto", system-ui;
@@ -98,119 +102,129 @@ li{
     font-style: normal;
     font-size: 13px;
 }
-.nav-item:hover{
+
+.nav-item:hover {
     text-decoration: underline;
     transition: 0.5s;
-    
+
 }
-.nav-item:active{
+
+.nav-item:active {
     font-weight: bold;
 }
-.nav-item::after{
+
+.nav-item::after {
     font-weight: bold;
     text-decoration: underline;
 }
 
-.hero-text{
+.hero-text {
     font-family: "Marck Script", cursive;
     font-weight: 400;
     font-style: normal;
     font-size: 6.3em;
-    padding-left:14vh;
+    padding-left: 14vh;
     padding-top: 12vh;
 
 
 }
 
-.word02{
-    padding-left:50px;
-  
-}
-.word03{
-    padding-left:180px
-}
-.word04{
-    padding-left:320px
+.word02 {
+    padding-left: 50px;
+
 }
 
-.about-text{
+.word03 {
+    padding-left: 180px
+}
+
+.word04 {
+    padding-left: 320px
+}
+
+.about-text {
     padding-top: 20vh;
     font-size: 3.5em;
     padding-left: 3em;
     width: max-content;
 
 }
-.main-pencil{
-width: 90%;
-overflow: hidden;
-padding-left: 5vh;
+
+.main-pencil {
+    width: 90%;
+    overflow: hidden;
+    padding-left: 5vh;
 
 }
-.sketch-text{
+
+.sketch-text {
     display: flex;
     justify-content: center;
     align-items: center;
-  
+
 }
-.sketch-one{
+
+.sketch-one {
     height: 75vh;
     padding-left: 25vh;
-    padding-right:25vh;
+    padding-right: 25vh;
 }
 
-.sketch-two{
+.sketch-two {
     height: 75vh;
-  
-    padding-right:25vh;
+
+    padding-right: 25vh;
 }
 
-.sketch-text01{
+.sketch-text01 {
     padding-top: 20vh;
     font-size: 3.5em;
     display: inline-block;
 }
 
-.sketch-text02{
+.sketch-text02 {
     padding-top: 20vh;
     font-size: 3.5em;
     display: inline-block;
     padding-left: 20vh;
 }
 
-.texture-section{
+.texture-section {
     display: grid;
     grid-template-rows: 1fr 1fr;
     align-items: center;
     justify-content: center;
 }
 
-.texture-one{
+.texture-one {
     height: 65vh;
     display: inline-block;
-   
+
 }
-.texture{
+
+.texture {
     display: inline-block;
-font-family: "Aboreto", system-ui;
+    font-family: "Aboreto", system-ui;
     font-weight: 400;
     font-style: normal;
     font-size: 5em;
     text-align: center;
     padding-top: 5vh;
     padding-left: 45vh;
-    
-    
+
+
 }
-.images-container{
+
+.images-container {
     margin-top: -15vh;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap:10vh;
+    gap: 10vh;
     margin-bottom: 20vh;
 
 }
 
-.product-section{
+.product-section {
     height: 100vh;
     width: 100%;
     background-color: black;
@@ -218,61 +232,75 @@ font-family: "Aboreto", system-ui;
 
 }
 
-.product{
+.product {
     display: inline-block;
-font-family: "Aboreto", system-ui;
+    font-family: "Aboreto", system-ui;
     font-weight: 400;
     font-style: normal;
     font-size: 4.5em;
     text-align: center;
     padding-top: 10vh;
     margin-left: 65vh;
-    color: white;   
+    color: white;
 }
 
-.pro-ro-01{
+.contact-section-title {
+
+    display: inline-block;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4em;
+    text-align: center;
+    padding-top: 3vh;
+    margin-left: 60vh;
+    color: white;
+
+}
+
+.pro-ro-01 {
     display: flex;
     justify-content: space-between;
     padding-left: 30vh;
     padding-right: 30vh;
 }
 
-.pro-ro-02{
+.pro-ro-02 {
     display: flex;
     justify-content: space-between;
     padding-left: 50vh;
     padding-right: 50vh;
 }
 
-.pro-ro-03{
+.pro-ro-03 {
     display: flex;
     justify-content: center;
     padding-bottom: 7vh;
     margin-top: -20vh;
 }
 
-.pro-im-01{
+.pro-im-01 {
     display: inline-block;
     height: 25vh;
     width: 20vh;
     object-fit: contain;
 }
 
-.pro-im-02{
+.pro-im-02 {
     display: inline-block;
     height: 25vh;
     width: 120px;
     object-fit: contain;
 }
 
-.pro-im-03{
+.pro-im-03 {
     display: inline-block;
     height: 30vh;
     width: 20vh;
     object-fit: contain;
 }
 
-.pro-name{
+.pro-name {
     text-decoration: none;
     color: white;
     font-family: "Aboreto", system-ui;
@@ -282,51 +310,178 @@ font-family: "Aboreto", system-ui;
 
 }
 
-.testimonials-section{
+.testimonials-section {
 
-        display: grid;
-        grid-template-rows: 1fr 1fr;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100%;
-        padding: 10vh;
-    
+
+    height: 100vh;
+    width: 100%;
+    padding: 20vh;
+    margin-left: -20vh;
+
 }
 
-.texture-one{
+.texture-one {
     height: 65vh;
     display: inline-block;
-   
+
 }
 
-.images-container02{
+.images-container02 {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
-    gap:10vh;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 10vh;
     margin-bottom: 20vh;
 
 
 }
-.testimonial-title{
+
+.testimonial-title {
     display: inline-block;
     font-family: "Aboreto", system-ui;
-        font-weight: 400;
-        font-style: normal;
-        font-size: 4.0em;
-        text-align: center;
-        padding-top: 5vh;
-        padding-left: 25vh;
-        width: max-content;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4.0em;
+    text-align: center;
+    padding-top: 5vh;
+    margin-left: 55vh;
+    width: max-content;
 }
 
-.testimonial-one{
+.testimonial-one {
     height: 40vh;
 }
 
-.test-name{
+.test-name {
     font-family: "Aboreto", system-ui;
     font-weight: 500;
     font-style: normal;
     font-size: 13px;
+}
+
+.contact-section {
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    padding: 10vh;
+
+}
+
+.contact-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 5vh 15vh;
+}
+
+.icon-row {
+    display: grid inline-block;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+
+}
+
+.icon {
+    height: 5vh;
+    display: inline-block;
+    padding-right: 10vh;
+}
+
+.right-end {
+    display: inline-block;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.0em;
+    color: white;
+    padding-right: 30vh;
+}
+
+.icon-column {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    align-items: start;
+}
+
+.contact-us-img {
+    display: inline-block;
+    margin-bottom: -20vh;
+}
+
+.main-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 4vh;
+}
+
+.footer {
+    background-color: white;
+    height: 5vh;
+    text-align: center;
+
+    font-family: "inter";
+}
+
+
+.feild1 {
+    background-color: rgba(255, 255, 255, 0.557);
+    padding: 2vh;
+    padding-right: 25vh;
+    display: block;
+    margin-bottom: 5vh;
+    border-radius: 20px;
+    border: none;
+    color: white;
+
+}
+
+.feild2 {
+    background-color: rgba(255, 255, 255, 0.557);
+    padding: 2vh;
+    padding-bottom: 15vh;
+    padding-right: 25vh;
+    display: block;
+    border-radius: 20px 20px 0px 20px;
+    border: none;
+    color: white;
+
+
+}
+
+.feild1::placeholder {
+    color: rgb(208, 208, 208);
+}
+
+
+.feild2::placeholder {
+    color: rgb(208, 208, 208);
+}
+
+
+.input-feilds {
+    padding-top: 5vh;
+    font-family: "inter";
+}
+
+.send-button{
+    padding:2vh 10vh;
+    margin-left:15vh;
+    margin-top:5vh;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    border:0.5px solid white;
+    font-family: "Aboreto", system-ui;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.send-button:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+.send-button:active{
+    background-color: black;
+    color: white;
+ 
 }
